@@ -9,7 +9,7 @@
 >Example:
 >
 >Given nums = [2, 7, 11, 15], target = 9,
-
+>
 >Because nums[0] + nums[1] = 2 + 7 = 9,
 >return [0, 1].
 
@@ -21,5 +21,5 @@
 >
 > For example, given the array [-1, 0, 1, 2, -1, -4], and the target **0**:
 > The solution set is: [[-1, 0, 1], [-1, -1, 2]] // The two **-1** values in the array are considered to be distinct
-
+>
 >There are 2 key procedures in solving this algorithm. Sorting the array, and avoiding duplicates.
