@@ -44,7 +44,23 @@
 > 
 > Input: [0,1,0,3,12]
 > Output: [1,3,12,0,0]
+> 
 > Note:
 > 
 > You must do this in-place without making a copy of the array.
 > Minimize the total number of operations.
+
+## Day 5. Palindrome Number
+
+> Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
+> 
+> Example 1:
+> 
+> Input: 121
+> Output: true
+> 
+> Example 2:
+> 
+> Input: -121
+> Output: false
+> Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
